@@ -23,7 +23,7 @@ Uma aplicação simples e interativa para calcular o Índice de Massa Corporal (
 ### Passos para rodar o projeto  
 1. Clone o repositório:  
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/LeoBlanco123/Cuculador-com-Blazor)
+   git clone https://github.com/LeoBlanco123/Cuculador-com-Blazor
    cd AluraBlazorApp
    ```
 2. Execute o projeto:  
